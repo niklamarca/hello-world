@@ -29,4 +29,4 @@ console.log("Hello, World!");
      
       ## 👤 Autor
 
-    - **Nikla Marca** - [@niklamarca](https://github.com/niklamarca)
+    **Nicolas Lamarca** - [@niklamarca](https://github.com/niklamarca)
